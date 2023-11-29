@@ -45,11 +45,6 @@ function App() {
 
       {/* Include the SysPrepSteps component */}
       <SysPrepSteps />
-
-      <p>
-        Hello! This is a simple React app template that you can customize for your SysPrep guide. Feel free to add more
-        details and customize the styling as needed.
-      </p>
     </div>
   );
 }
